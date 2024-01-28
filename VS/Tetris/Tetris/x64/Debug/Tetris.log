@@ -1,0 +1,4 @@
+﻿  Tetris.cpp
+C:\Users\Administrator\Desktop\C++Project\VS\Tetris\Tetris\Tetris.cpp(31,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++Project\VS\Tetris\Tetris\Tetris.cpp(211,10): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  Tetris.vcxproj -> C:\Users\Administrator\Desktop\C++Project\VS\Tetris\x64\Debug\Tetris.exe
